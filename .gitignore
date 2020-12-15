@@ -2,3 +2,5 @@
 node_modules
 coverage
 dist
+*.iml
+sandbox.ts
